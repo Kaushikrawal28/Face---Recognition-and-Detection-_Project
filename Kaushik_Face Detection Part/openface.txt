@@ -1,0 +1,2 @@
+Download this model also :
+openface.nn4.small2.v1.t7
